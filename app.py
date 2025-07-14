@@ -149,4 +149,4 @@ st.plotly_chart(fig_gauge, use_container_width=True)
 
 # Footer
 st.markdown("---")
-st.markdown("<p style='color:black'>******************************************************************************** Built by cdj48. Ensure lecture attendance and TA engagement for success. ********************************************************************************</p>", unsafe_allow_html=True)
+st.markdown("<p style='color:black'>***************************************************************** Built by cdj48. Ensure lecture attendance and TA engagement for success. *****************************************************************</p>", unsafe_allow_html=True)
