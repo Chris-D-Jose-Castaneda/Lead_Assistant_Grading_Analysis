@@ -72,3 +72,4 @@ Commit your changes:
 git commit -m "Add awesome feature"
 
 Push & open a Pull Request 🎉
+---
