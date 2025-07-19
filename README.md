@@ -28,7 +28,7 @@ Lead_Assistant_Grading_Analysis/
 
 ---
 
-##📄 File Details
+## 📄 File Details
 
     .devcontainer/devcontainer.json
     Container config (Python 3.11 + VS Code extensions).
