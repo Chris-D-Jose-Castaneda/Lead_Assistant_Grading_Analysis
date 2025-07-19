@@ -26,6 +26,8 @@ Lead_Assistant_Grading_Analysis/
 ├── requirements.txt                       📦 Python dependencies  
 └── README.md                              📝 This file  
 
+---
+
 ##📄 File Details
 
     .devcontainer/devcontainer.json
@@ -58,7 +60,7 @@ Lead_Assistant_Grading_Analysis/
     requirements.txt
     Lists pinned versions for pandas, numpy, SQLAlchemy, streamlit, scikit‑learn, matplotlib, etc.\
 
-
+---
 ## 🤝 Contributing
 
     Fork the repo & checkout a feature branch:
