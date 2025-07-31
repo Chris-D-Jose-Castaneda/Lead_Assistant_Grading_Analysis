@@ -1,12 +1,12 @@
 # 🎓 Lead Assistant Grading Analysis 📊
 
-> End‑to‑end grading analysis & ETL pipeline with an interactive Streamlit dashboard for course code 1740. This was useful for my other assistants in changing student learning.
+> End‑to‑end grading analysis & ETL pipeline with an interactive Streamlit dashboard for course code 1740. This was useful for my other assistants in changing student learning. Helped increase couurse median!
 
 ---
 
 ## 🚀 Live Demo  
 Try the interactive grading app here:  
-👉 https://biz-comp.streamlit.app/
+https://biz-comp.streamlit.app/
 
 ---
 
@@ -24,7 +24,7 @@ Try the interactive grading app here:
 
 ---
 
-## ✨ Features
+## Features
 - **Automated ETL Pipeline**  
   – Ingest raw assignment CSV, clean & transform, load into SQL  
 - **Exploratory Data Analysis**  
@@ -36,7 +36,7 @@ Try the interactive grading app here:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Language & Notebooks:** Python 3.11, Jupyter  
 - **Data & Modeling:** pandas, NumPy, scikit‑learn  
 - **Database:** SQLAlchemy (SQLite/MySQL)  
@@ -45,18 +45,4 @@ Try the interactive grading app here:
 
 ---
 
-## 📂 Repository Structure
 
-```text
-Lead_Assistant_Grading_Analysis/
-├── .devcontainer/                         
-│   └── devcontainer.json                  🐳 DevContainer config (Python, VS Code)  
-├── data/                                  
-│   └── …                                   📁 Raw or additional CSV/JSON files  
-├── HADM1740_All_Major_Assignments.csv     📊 Raw assignments & scores dataset  
-├── Full_Schemas.sql                       🗄️ SQL DDL for `class_grades` database  
-├── ETL.ipynb                              🔄 ETL pipeline: ingest → clean → load  
-├── Analysis.ipynb                         📈 EDA & feature engineering notebooks  
-├── app.py                                 🌐 Streamlit app entrypoint  
-├── requirements.txt                       📦 Python dependencies  
-└── README.md                              📝 This document  
