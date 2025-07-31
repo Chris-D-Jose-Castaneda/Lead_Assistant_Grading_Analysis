@@ -1,6 +1,6 @@
 # 🎓 Lead Assistant Grading Analysis 📊
 
-> End‑to‑end grading analysis & ETL pipeline with an interactive Streamlit dashboard for course code 1740. This was useful for my other assistants in changing student learning. Helped increase couurse median!
+> End‑to‑end grading analysis & ETL pipeline with an interactive Streamlit dashboard for biz comp. This was useful for my other assistants in changing student learning. This allowed it easier to plan assignments and reduced planning time and meetings. Increase course median by 6.5%!
 
 ---
 
